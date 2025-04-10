@@ -5,3 +5,19 @@ This project aims to revolutionize the vehicle insurance industry with an automa
 **Links to Datasets:**
 4 Wheeler: https://universe.roboflow.com/revca/maincar/dataset/6
 6 Wheeler: https://universe.roboflow.com/project/lorry-kqgqf/dataset/2
+
+**Tech Stack:**
+-**Deep Learning Model**: YOLOv5 (You Only Look Once, v5)
+- **Framework**: PyTorch
+- **Frontend**: HTML, CSS, JavaScript (optional for web app)
+- **Backend**: Flask (for API and web integration)
+
+**Features**
+- ✅ Real-time damage detection on uploaded images
+- ✅ Supports two-wheelers, four-wheelers, and six-wheelers
+- ✅ Classifies different types of damage
+- ✅ Provides cost estimation for repairs
+- ✅ Simple and intuitive web interface
+
+
+
